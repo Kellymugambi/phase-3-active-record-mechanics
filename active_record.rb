@@ -23,5 +23,6 @@ ActiveRecord::Base.logger = Logger.new(STDOUT)
 class Student < ActiveRecord::Base
 end
 
+
 binding.pry
 ""
